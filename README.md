@@ -19,21 +19,7 @@ link :https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows
 
 Schema
 
-
-create table netflix (
- show_id varchar(10),	
-type varchar (10),
-title varchar(105 ),
-director varchar(208),
-casts varchar(750),
-country varchar(150),
-date_added varchar(50),
-release_year int,
-rating varchar(10),
-duration	varchar(20),
-listed_in varchar(79),
-description varchar(250)
-);
+[screenshot]()
 
 
 
