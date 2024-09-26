@@ -19,7 +19,7 @@ link :https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows
 
 Schema
 
-[screenshot]()
+[screenshot](https://github.com/saurav190101/Netflix-SQL-project/blob/main/Screenshot%202024-09-26%20200545.png)
 
 
 
