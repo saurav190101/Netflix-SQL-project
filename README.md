@@ -9,8 +9,10 @@ The following README provides a detailed account of the project's objectives, bu
 
 Objectives
 
-.Analyze most preferred tv shows and movies
+.Analyze the most preferred TV shows and movies
+
 .Explore Actors who have appeared in the highest number of movies produced in India.
+
 .Analyze content based on release years, countries, and durations.
 
 Dataset from Kaggle
